@@ -1,1 +1,1 @@
-sukurtas index.html failas!
+jau panaseja i projekta!
